@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/color.webp" alt="Sass Logo" width="50%">
+  <img src="images/color.webp" alt="Sass Logo" width="20%">
 </p>
 
 # Sass Framework
