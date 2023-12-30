@@ -34,7 +34,7 @@ This framework uses the fonts Outfit and Questrial from Google Fonts. You can ch
 - `h3` to `h5`: Subsequent headings.
 
 ### Font Weight
-- `.text-base`, `h1` to `h5`: Default font weight.
+- `.text-base` to `.text-7xl`: Default font weight of 400.
 - `h1`, `h2`, `h3`, `h4`, `h5`: Bold headings.
 
 ## General Styling
