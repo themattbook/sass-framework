@@ -1,6 +1,21 @@
+![Sass Logo](images/color.webp)
 # Sass Framework
 
 Sass Framework is a lightweight CSS framework that provides a set of utility classes to streamline your web development process. It is designed to be easy to use and customizable, allowing you to quickly build responsive and well-designed web applications. Below is a list of the classes provided by Sass Framework along with their use cases.
+
+## Compiling
+This framework relies on a VS Code extension called Live Sass Compile. The settings for it can be found in the .vscode folder. Should you choose to modify this framework, it can be compiled into the `dist/css` folder and referenced directly in your project.
+
+The default settings for minified css output into `dist/css`:
+```
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "~/../dist/css"
+        },
+    ]
+```
 
 ## Typography
 This framework uses the fonts Outfit and Questrial from Google Fonts. You can change both the `@import` tag and the font families in the `_fonts.scss` partial.
