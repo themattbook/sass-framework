@@ -3,6 +3,7 @@
 Sass Framework is a lightweight CSS framework that provides a set of utility classes to streamline your web development process. It is designed to be easy to use and customizable, allowing you to quickly build responsive and well-designed web applications. Below is a list of the classes provided by Sass Framework along with their use cases.
 
 ## Typography
+This framework uses the fonts Outfit and Questrial from Google Fonts. You can change both the `@import` tag and the font families in the `_fonts.scss` partial.
 
 ### Font Sizes
 - `.text-base`: Base font size.
