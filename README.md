@@ -1,4 +1,6 @@
-![Sass Logo](images/color.webp)
+<p align="center">
+  <img src="images/color.webp" alt="Sass Logo" width="80%">
+</p>
 # Sass Framework
 
 Sass Framework is a lightweight CSS framework that provides a set of utility classes to streamline your web development process. It is designed to be easy to use and customizable, allowing you to quickly build responsive and well-designed web applications. Below is a list of the classes provided by Sass Framework along with their use cases.
