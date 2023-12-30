@@ -1,0 +1,17 @@
+{
+    "prettier.requireConfig": true,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.colorTheme": "Material Theme Darker",
+    "editor.formatOnSave": true,
+    "git.openRepositoryInParentFolders": "never",
+    "editor.accessibilitySupport": "off",
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "~/../dist/css"
+        },
+    ]
+}
